@@ -1,4 +1,3 @@
-@@ -1,25 +0,0 @@
 #### 从 Web Server 讲起
 * 什么是 Web 服务器
 
@@ -20,7 +19,7 @@ const http = require("http");
     .listen(3000)
 
 ```
-git bash 下 cd 至当 server.js 的目录 
-执行 server.js => node server.js
-在浏览器中 输入 http://localhost:3000/
+git bash 下 cd 至当 server.js 的目录   
+执行 server.js => node server.js  
+在浏览器中 输入 http://localhost:3000/  
 Hello World:) 是不是已经跃然纸上。 Congradulation，你的第一个 Web Server 已经搭建成功了。
