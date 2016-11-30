@@ -1,2 +1,1 @@
-# nodejs-newbie
-NodeJs Newbie Tutorial
+A Node.JS newbie tutorial
